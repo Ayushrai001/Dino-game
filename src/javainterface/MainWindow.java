@@ -46,7 +46,7 @@ public class MainWindow extends JFrame {
         gw = new MainWindow();
         gw.setVisible(true);
         gw.startGame();
-        System.out.println("Hello Deepak");
+        System.out.println("Hello Ayush");
         Scanner scan = new Scanner(System.in);
 
 
